@@ -1,6 +1,8 @@
 <?php
 namespace Bootstrap\View;
 
+//test;
+
 use Cake\View\StringTemplate;
 use Cake\Utility\Hash;
 
